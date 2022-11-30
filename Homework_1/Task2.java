@@ -7,7 +7,7 @@ public class Task2 {
        int number = 1;
        int index = 0;
 
-       for (int i = 0; i < 20; i++) {
+       for (int i = 0; i < 1000; i++) {
         number++;
             for (int j = 1; j < number; j++) {
                 if (number % j == 0) index++;
