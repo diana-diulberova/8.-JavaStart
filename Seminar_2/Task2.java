@@ -36,7 +36,7 @@ public class Task2 {
 
 public class Task2 {
     public static void main(String[] args) {
-        String chars = "abbass";
+        String chars = "abba";
         int counter = 0;
         for (int i = 0; i < chars.length()/2; i++)
             if(chars.charAt(i) == chars.charAt(chars.length() - i - 1))
