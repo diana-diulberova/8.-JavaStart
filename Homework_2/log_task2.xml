@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-08T11:13:07.789860700Z</date>
+  <millis>1670497987789</millis>
+  <nanos>860700</nanos>
+  <sequence>0</sequence>
+  <logger>Homework_2.Task2</logger>
+  <level>INFO</level>
+  <class>Homework_2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>+</message>
+</record>
+<record>
+  <date>2022-12-08T11:13:09.618635900Z</date>
+  <millis>1670497989618</millis>
+  <nanos>635900</nanos>
+  <sequence>1</sequence>
+  <logger>Homework_2.Task2</logger>
+  <level>INFO</level>
+  <class>Homework_2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>3.0</message>
+</record>
+<record>
+  <date>2022-12-08T11:13:10.970804800Z</date>
+  <millis>1670497990970</millis>
+  <nanos>804800</nanos>
+  <sequence>2</sequence>
+  <logger>Homework_2.Task2</logger>
+  <level>INFO</level>
+  <class>Homework_2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>9.0</message>
+</record>
+<record>
+  <date>2022-12-08T11:13:10.975755500Z</date>
+  <millis>1670497990975</millis>
+  <nanos>755500</nanos>
+  <sequence>3</sequence>
+  <logger>Homework_2.Task2</logger>
+  <level>INFO</level>
+  <class>Homework_2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>12.0</message>
+</record>
+</log>
